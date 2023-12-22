@@ -24,7 +24,7 @@
     <a href="https://t.me/marviant"            target="_blank">
       <img alt="iletisim | Telegram" src="https://img.shields.io/badge/Telegram-cD1?style=for-the-badge&logo=telegram&logoColor=EF7F1A&color=2B2A29">
     </a>
-    <a href="https://tr.linkedin.com/in/deniz-yetis" target="_blank">
+    <a href="https://tr.linkedin.com/in/denizyetis" target="_blank">
       <img alt="iletisim | Linkedin" src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&logo=linkedin&logoColor=EF7F1A">
     </a>
   </div>
