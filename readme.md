@@ -3,7 +3,6 @@
 
   <p align="center">
     <a href="https://github.com/denizyts"><img src="https://visitor-badge.laobi.icu/badge?page_id=denizyts&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
-    <a href="https://KekikAkademi.org/Kahve" target="_blank"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Kahve%20Ismarla-ffdd00" title="☕️"></a>
   </p>
 
 ---
