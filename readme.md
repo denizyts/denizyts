@@ -33,12 +33,12 @@
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>GitHub İstatistikleri</b>
-      <i>(genişletmek için tıklayın!)</i>
+      <b>GitHub statistics</b>
+      <i>(click!)</i>
     </summary>
     <br/>
   
-  <img width="53%" alt="keyiflerolsun'un GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=denizyts&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A&locale=tr"/>
+  <img width="53%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=denizyts&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A&locale=tr"/>
   <img width="44%" alt="keyiflerolsun'un En Çok Kullandığı Diller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizyts&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&locale=tr"/>
 
   </details>
