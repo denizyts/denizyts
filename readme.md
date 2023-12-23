@@ -7,16 +7,14 @@
 
 ---
 
-  <details align="center">
+<details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>İlgi Alanlarım</b>
-      <i>(genişletmek için tıklayın!)</i>
+      <b>GitHub statistics</b>
     </summary>
     <br/>
   
-  ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
-  ![Telegram](https://img.shields.io/badge/Telegram-cD1?style=for-the-badge&logo=telegram&logoColor=EF7F1A&color=2B2A29)
-  </details>
+  <img width="53%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=denizyts&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A&locale=tr"/>
+
 
   <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29"> Connect: </h2>
 
