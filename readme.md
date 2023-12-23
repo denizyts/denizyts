@@ -5,6 +5,7 @@
     <a href="https://github.com/denizyts"><img src="https://visitor-badge.laobi.icu/badge?page_id=denizyts&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
   </p>
 
+<img width="99%" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizyts&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&locale=tr"/>
 
   <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29"> Connect: </h2>
 
@@ -26,8 +27,8 @@
     </summary>
     <br/>
   
-  <img width="53%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=denizyts&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A&locale=tr"/>
-  <img width="44%" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizyts&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&locale=tr"/>
+  <img width="99%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=denizyts&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A&locale=tr"/>
+  
 
   </details>
 </samp>
