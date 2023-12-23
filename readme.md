@@ -6,8 +6,6 @@
   </p>
 
 
- <img width="80%" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizyts&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&locale=tr"/>
-
   <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29"> Connect: </h2>
 
   <div align="center">
