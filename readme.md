@@ -9,7 +9,7 @@
 <img width="50%" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizyts&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&locale=tr"/>
 </div>
 
-  <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29"> Contact: denizyts16@gmail.com</h2>
+  <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29"> Contact:</h2>
 
   <div align="center">
     <a href="https://tr.linkedin.com/in/deniz-yetis?trk=people-guest_people_search-card" target="_blank">
