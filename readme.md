@@ -12,9 +12,6 @@
   <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29"> Contact: </h2>
 
   <div align="center">
-    <a href="https://t.me/marviant"            target="_blank">
-      <img alt="iletisim | Telegram" src="https://img.shields.io/badge/Telegram-cD1?style=for-the-badge&logo=telegram&logoColor=EF7F1A&color=2B2A29">
-    </a>
     <a href="https://tr.linkedin.com/in/deniz-yetis-957a25297?trk=people-guest_people_search-card" target="_blank">
       <img alt="iletisim | Linkedin" src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&logo=linkedin&logoColor=EF7F1A">
     </a>
