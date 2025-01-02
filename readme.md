@@ -8,7 +8,7 @@
   </p>
 
 <div align="center">
-<img width="50%" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizyts&layout=compact&bg_color=001&text_color=FFF&title_color=24BAD1&locale=tr"/>
+<img width="50%" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizyts&layout=compact&bg_color=001&text_color=FFF&title_color=24BAD1&locale=en"/>
 </div>
 
   <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29"> Contact</h2>
