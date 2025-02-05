@@ -1,6 +1,6 @@
 <samp>
-  <h1 align="center" style="color:#EF7F1A; text-shadow: 3px 4px 4px #2B2A29;"> </h1>
-  <h3 align="center">� denizyts16@gmail.com </h3>
+  <h1 align="center" style="color:#EF7F1A; text-shadow: 3px 4px 4px #2B2A29;"> Denocan </h1>
+  <h3 align="center">denizyts16@gmail.com </h3>
 
 
   <p align="center">
